@@ -1,0 +1,2 @@
+# AppliedAI
+Artificial Intelligence
