@@ -1,2 +1,2 @@
 # AppliedAI
-Artificial Intelligence
+Applied Machine Learning Course
